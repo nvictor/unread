@@ -13,7 +13,7 @@ Only looks at the default "Other Bookmarks" folder. Check the code if you need t
 ## Caveats
 
 1. Expects a "Other Bookmarks" folder to have id "2".
-1. Use JavaScript [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) on your entire bookmarks set.
+1. Use JavaScript [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) on your entire "Other Bookmarks" folder.
 1. Use JavaScript [Math.random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 
 ## Credits
