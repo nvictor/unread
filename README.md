@@ -1,6 +1,6 @@
-# rnd
+# urd
 
-Chrome extension that opens a random bookmark containing the word "unread".
+Chrome extension that opens a random bookmark whose title contains the word "unread".
 
 Only looks at the default "Other Bookmarks" folder. Check the code if you need to update that.
 
