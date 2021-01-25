@@ -18,4 +18,4 @@ Only looks at the default "Other Bookmarks" folder. Check the code if you need t
 
 ## Credits
 
-Icon made by [Roundicons](https://www.flaticon.com/authors/roundicons) from [www.flaticon.com](https://www.flaticon.com/)
+Icon made by [Perfect Pixel](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/)
