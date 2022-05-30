@@ -1,4 +1,4 @@
-# urd
+# unread
 
 Chrome extension that opens a random bookmark whose title contains the word "unread".
 
